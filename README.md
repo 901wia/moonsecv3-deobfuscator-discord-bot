@@ -127,7 +127,7 @@ If you only want to deobfuscate files locally without the Discord automation, us
 
 #### 1. Get the standalone deobfuscator
 
-Repository (example):
+Repository 
 
 ```
 https://github.com/901wia/moonsecv3-deobfuscator
